@@ -5,3 +5,4 @@ Alunos Presentes no dia 22/08/2024:
 
 Artur Muniz
 Gabriel Meirinhos
+Bernardo nunes
